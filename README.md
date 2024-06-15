@@ -1,4 +1,4 @@
-# Tesla-Stock-Price-Prediction
+# Tesla-Stock-Price-Predictor
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -6,7 +6,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0"
 <body>
 
-<h1>Stock Price Predictor - Time Series Forecasting (April 2024)</h1>
 
 <p>This repository contains the code and data for the Stock Price Forecasting project. The goal of this project is to predict future stock prices using various time series forecasting models.</p>
 
@@ -235,21 +234,6 @@ Store-Sales---Time-Series-Forecasting_Apr_2024/
     </table>
 </div>
 
-
-
-
-<h2>License</h2>
-
-<p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
-
-<h2>Acknowledgments</h2>
-
-<p>
-    <ul>
-        <li>Infosys Internship Program (April 2024)</li>
-        <li>Mentors and colleagues for their guidance and support.</li>
-    </ul>
-</p>
 
 </body>
 </html>
