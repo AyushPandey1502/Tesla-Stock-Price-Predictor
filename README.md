@@ -12,7 +12,7 @@
 <h2>Repository Structure</h2>
 
 <pre>
-Store-Sales---Time-Series-Forecasting_Apr_2024/
+Store-Sales---Time-Series-Forecasting
 ├── data/
 │   ├── TSLA.csv
 │   ├── TSLA_predictions.csv
