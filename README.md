@@ -91,7 +91,7 @@ Store-Sales---Time-Series-Forecasting_Apr_2024/
 
 <h2>Models</h2>
 
-<p>Trained models are stored in the <code>models/</code> directory.</p>
+<p>Trained models are stored in the <code>Store-Sales---Time-Series-Forecasting/models/</code> directory.</p>
 
 <ul>
     <li>TSLA_arima.pkl</li>
@@ -114,9 +114,9 @@ Store-Sales---Time-Series-Forecasting_Apr_2024/
 
 <h3>Plots</h3>
 
-<p>Visualizations of the forecasted sales can be found in the <code>results/plots/</code> directory.</p>
+<p>Visualizations of the forecasted sales can be found in the <code>Store-Sales---Time-Series-Forecasting/results/plots/</code> directory.</p>
 
-<img src="results/plots/TSLA_predictions.png" alt="Sales Forecast Plot" style="max-width: 100%; height: auto;">
+<img src="Store-Sales---Time-Series-Forecasting/results/plots/TSLA_predictions.png" alt="Sales Forecast Plot" style="max-width: 100%; height: auto;">
 
 <h3>Predictions</h3>
 
