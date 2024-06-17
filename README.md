@@ -120,7 +120,7 @@ Store-Sales---Time-Series-Forecasting_Apr_2024/
 
 <h3>Predictions</h3>
 
-<p>Generated predictions are stored in the <code>results/prediction/</code> directory.</p>
+<p>Generated predictions are stored in the <code>Store-Sales---Time-Series-Forecasting/results/prediction/</code> directory.</p>
 
 <ul>
     <li>TSLA_predictions.csv</li>
