@@ -241,14 +241,5 @@ Store-Sales---Time-Series-Forecasting_Apr_2024/
 
 <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
 
-<h2>Acknowledgments</h2>
-
-<p>
-    <ul>
-        <li>Infosys Internship Program (April 2024)</li>
-        <li>Mentors and colleagues for their guidance and support.</li>
-    </ul>
-</p>
-
 </body>
 </html>
